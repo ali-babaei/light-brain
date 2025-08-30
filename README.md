@@ -1,7 +1,7 @@
 # 🧠 Optical Brain: Next-Generation Photonic Neural Computing
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Research Stage](https://img.shields.io/badge/Stage-Research-blue.svg)](https://github.com/yourusername/optical-brain)
+[![Research Stage](https://img.shields.io/badge/Stage-Research-blue.svg)](https://github.com/ali-babaei/optical-brain)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > *"Computing at the speed of light - literally"*
@@ -188,10 +188,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Lead**: [Your Name]
-- Email: [your.email@domain.com]
-- LinkedIn: [Your Profile]
-- Twitter: [@yourhandle]
+**Project Lead**: Ali Babaei
+- Email: alibabaei64@gmail.com
+- LinkedIn: [Ali Babaei](https://www.linkedin.com/in/ali-babaei-/)
 
 ---
 
@@ -205,10 +204,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/optical-brain)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/optical-brain)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/optical-brain)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/optical-brain)
+![GitHub stars](https://img.shields.io/github/stars/ali-babaei/optical-brain)
+![GitHub forks](https://img.shields.io/github/forks/ali-babaei/optical-brain)
+![GitHub issues](https://img.shields.io/github/issues/ali-babaei/optical-brain)
+![GitHub last commit](https://img.shields.io/github/last-commit/ali-babaei/optical-brain)
 
 ---
 
