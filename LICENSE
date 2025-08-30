@@ -1,0 +1,226 @@
+OPTICAL BRAIN PROJECT - MULTI-TIER LICENSE
+
+Copyright (C) 2024 [Your Name] - Optical Brain Project
+All rights reserved.
+
+================================================================================
+                            LICENSING TERMS
+================================================================================
+
+This project is available under THREE licensing options. Choose the one that 
+applies to your use case:
+
+================================================================================
+🎓 TIER 1: ACADEMIC & RESEARCH LICENSE (AGPL v3 Based)
+================================================================================
+
+For academic institutions, educational use, non-profit research, and 
+open source projects:
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+PERMITTED USES:
+✅ Academic research and publications
+✅ Educational purposes and teaching
+✅ Non-profit research organizations
+✅ Open source derivative works
+✅ Personal learning and experimentation
+
+REQUIREMENTS:
+⚖️ Must remain open source under AGPL v3
+⚖️ All modifications must be published
+⚖️ Must provide source code to all users
+⚖️ Must credit original authors prominently
+⚖️ Cannot be made proprietary or closed source
+⚖️ Network use triggers source disclosure
+
+PROHIBITED:
+❌ Commercial use or revenue generation
+❌ Proprietary or closed-source derivatives
+❌ Integration into commercial products
+❌ Selling or licensing to commercial entities
+
+================================================================================
+🚫 TIER 2: NON-COMMERCIAL LICENSE (CC BY-NC-SA 4.0 Based)
+================================================================================
+
+For hobbyists, makers, and non-commercial applications:
+
+This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 
+4.0 International License with additional terms.
+
+PERMITTED USES:
+✅ Personal hobby projects
+✅ Maker spaces and DIY applications
+✅ Non-commercial demonstrations
+✅ Community projects
+✅ Educational workshops
+
+REQUIREMENTS:
+⚖️ Attribution required (credit original author)
+⚖️ ShareAlike (derivatives under same license)
+⚖️ Non-commercial use only
+⚖️ Must indicate if changes were made
+⚖️ Link to original project required
+
+PROHIBITED:
+❌ Any commercial use
+❌ Revenue generation
+❌ Business applications
+❌ Professional services using this technology
+
+================================================================================
+💼 TIER 3: COMMERCIAL LICENSE
+================================================================================
+
+For commercial use, proprietary applications, business integration, or 
+closed-source products:
+
+REQUIRES SEPARATE COMMERCIAL LICENSE AGREEMENT
+
+Commercial use includes but is not limited to:
+• Integration into commercial products or services
+• Use in business operations or revenue generation
+• Licensing technology to other commercial entities
+• Professional services using this technology
+• SaaS applications or cloud services
+• Manufacturing products based on this technology
+
+COMMERCIAL LICENSE BENEFITS:
+✅ Proprietary use allowed
+✅ No obligation to disclose source code
+✅ Commercial modification rights
+✅ Professional support and consultation
+✅ Custom licensing terms available
+✅ Royalty arrangements negotiable
+✅ Patent licensing included
+
+LICENSING TIERS:
+┌─────────────────┬─────────────────┬─────────────────┐
+│ STARTUP LICENSE │ ENTERPRISE      │ MANUFACTURING   │
+├─────────────────┼─────────────────┼─────────────────┤
+│ <$1M revenue    │ >$1M revenue    │ Hardware/IP     │
+│ Reduced fees    │ Standard rates  │ Royalty based   │
+│ Basic support   │ Full support    │ Custom terms    │
+└─────────────────┴─────────────────┴─────────────────┘
+
+For commercial licensing inquiries:
+📧 Email: [your.email@domain.com]
+📞 Phone: [your phone number]
+🌐 Website: [your website]
+
+================================================================================
+⚖️ PATENT AND INTELLECTUAL PROPERTY TERMS
+================================================================================
+
+PATENT PROTECTION:
+This project may contain patentable innovations and intellectual property.
+All patent rights are reserved by the copyright holder.
+
+PATENT LICENSING:
+• Academic/Research Tier: Patent use included for non-commercial research
+• Non-Commercial Tier: Patent use included for non-commercial applications  
+• Commercial Tier: Requires explicit patent licensing agreement
+
+DERIVATIVE WORKS:
+• Improvements and derivatives may create additional IP rights
+• Contributors grant back license for improvements under same terms
+• Commercial derivatives require separate patent clearance
+
+================================================================================
+🤝 SPECIAL ARRANGEMENTS
+================================================================================
+
+RESEARCH COLLABORATION:
+Special licensing arrangements available for:
+• Joint research projects with academic institutions
+• Government research contracts
+• International scientific collaborations
+• Open source hardware initiatives
+
+GOVERNMENT USE:
+Special terms available for government agencies and military applications.
+Contact for classified project licensing.
+
+HUMANITARIAN USE:
+Reduced-cost licensing available for humanitarian applications, disaster 
+response, and developing world implementations.
+
+================================================================================
+📋 COMPLIANCE AND ENFORCEMENT
+================================================================================
+
+LICENSE VIOLATION:
+Unauthorized commercial use will result in:
+• Immediate cease and desist demands
+• Legal action for damages and profits
+• Injunctive relief to stop infringement
+• Recovery of attorney fees and costs
+
+MONITORING:
+We actively monitor for license compliance and unauthorized use through:
+• Automated scanning of public repositories
+• Industry monitoring and reporting
+• Community reporting systems
+• Legal investigation services
+
+CONTACT FOR COMPLIANCE QUESTIONS:
+📧 compliance@[yourproject].com
+
+================================================================================
+🔍 FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q: Can I use this for my PhD research?
+A: Yes, under Academic License (Tier 1) - completely free!
+
+Q: Can I build a prototype for my startup?
+A: Prototyping may be allowed, but commercial deployment requires Tier 3 license.
+
+Q: What if I'm not sure which license applies?
+A: Contact us! We're happy to help determine the right licensing tier.
+
+Q: Can I contribute improvements back to the project?
+A: Yes! Contributions are welcome and help the entire community.
+
+Q: What about using this in my university's tech transfer?
+A: Tech transfer for commercialization requires Commercial License discussion.
+
+================================================================================
+📞 CONTACT INFORMATION
+================================================================================
+
+Project Creator: [Your Name]
+Email: [your.email@domain.com]
+LinkedIn: [Your LinkedIn Profile]
+Website: [Your Website]
+
+Legal Representative: [Law Firm Name] (if applicable)
+Business Inquiries: [business.email@domain.com]
+
+================================================================================
+📜 LICENSE VERSIONS AND UPDATES
+================================================================================
+
+Current Version: 1.0 (2024)
+Effective Date: [Current Date]
+
+License updates will be announced via:
+• Project repository announcements
+• Email to registered commercial licensees  
+• Project website updates
+
+================================================================================
+
+This license was last updated on [DATE] and supersedes all previous versions.
+
+For the complete legal text of referenced licenses:
+• AGPL v3: https://www.gnu.org/licenses/agpl-3.0.html
+• CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+The author reserves all rights not expressly granted herein.
+
+================================================================================
